@@ -1,0 +1,20 @@
+/* components/Searchinpot/Searchinpot.wxss */
+.ass{
+  height: 90rpx;
+  padding: 10rpx;
+  background-color: var(--themeColor);
+}
+navigator{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 15rpx;
+  color: #666;
+}
+
+
+
+
+

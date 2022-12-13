@@ -1,0 +1,10 @@
+<!--components/Searchinpot/Searchinpot.wxml-->
+<view class="ass">
+  <navigator url="../../pages/search/search">搜索</navigator>
+</view>
+
+
+
+
+
+

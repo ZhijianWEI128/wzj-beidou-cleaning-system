@@ -1,0 +1,28 @@
+/* components/Upimg/upimg.wxss */
+.aaer{
+  position: relative;
+  /* float: left; */
+  z-index: 100;
+  color:white;
+  display: inline-block;
+  width: 100rpx;
+  height: 100rpx;
+left: 100rpx;
+font-size: 35rpx;
+bottom: 100rpx;
+  /* background-color: black; */
+}
+.aaer>image{
+  width: 100%;
+  height: 100%;
+  position: relative;
+  z-index: 10;
+  top: -90rpx;
+}
+.aaer>icon{
+  position: relative;
+  right: -50rpx;
+  z-index: 20;
+  top: -20rpx;
+  color: white;
+}
