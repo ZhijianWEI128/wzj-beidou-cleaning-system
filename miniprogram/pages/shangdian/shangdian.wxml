@@ -1,0 +1,128 @@
+<!--pages/home/home.wxml-->
+<swiper  indicator-dots='true' class='hot-card'>
+  <swiper-item >
+    <image src="https://pic.zsucai.com/files/2021/0422/ffpic0613dsfsewe00163.jpg"></image>
+  </swiper-item>
+  <swiper-item >
+    <image src="https://pic.zsucai.com/files/2021/0105/ffpic0613dsfsewe02171.jpg"></image>
+  </swiper-item>
+</swiper>
+<view class='separator'>
+  <image src="/images/line-black.png" class='separator-line'></image>
+  <view class='separator-text'>春季推荐</view>
+  <image src="/images/line-black.png" class='separator-line'></image>
+</view>
+
+<view class="post-container">
+  <view class="post-author-date">
+    <image src="/images/wx.png" />
+    <text>第一奸商</text>
+  </view>
+  <text class="post-title">十年老店诚信第一</text>
+  <image class="post-image" src="/images/清洁2.jpg " mode="aspectFill" />
+  <text class="post-content">原价998现在只要9.8打包带回家 </text>
+  <view class="post-like">
+    <image src="/images/喜爱.png" />
+    <text>5008</text>
+    <image src="/images/评论.png"></image>
+    <text>4002</text>
+    <image src="/images/收藏.png"></image>
+    <text>600</text>   
+  </view>
+</view>
+<view class="s_view" >
+      <button class="saveBtn"bindtap="gotoPage" >立刻购买</button>
+ </view>
+<view class="s_view" bindtap="handleClickNotice">
+      <button class="submitBtn" type="primary">加入购物车</button>
+</view>
+<text> ---------------------------------------------- </text>
+<view class="post-container1">
+  <view class="post-author-date">
+  </view>
+  <text class="post-title">百年老店传承无限</text>
+  <image class="post-image" src="/images/清洁3.jpg " mode="aspectFill" />
+  <text class="post-content">原价999现在只要9.9包邮带回家 </text>
+  <view class="post-like">
+    <image src="/images/喜爱.png" />
+    <text>1008</text>
+    <image src="/images/评论.png"></image>
+    <text>402</text>
+    <image src="/images/收藏.png"></image>
+    <text>60</text>   
+  </view>
+</view>
+<view class="s_view" >
+      <button class="saveBtn"bindtap="gotoPage" >立刻购买</button>
+ </view>
+<view class="s_view" bindtap="handleClickNotice">
+      <button class="submitBtn" type="primary">加入购物车</button>
+</view>
+
+  <text> ---------------------------------------------- </text>
+  
+  <view class="post-container2">
+  <view class="post-author-date">
+  </view>
+  <text class="post-title">百年老店传承无限</text>
+  <image class="post-image" src="/images/清洁4.jpg " mode="aspectFill" />
+  <text class="post-content">一屋不扫何以扫天下 现在跳楼价只要10块 </text>
+  <view class="post-like">
+    <image src="/images/喜爱.png" />
+    <text>111008</text>
+    <image src="/images/评论.png"></image>
+    <text>4202</text>
+    <image src="/images/收藏.png"></image>
+    <text>6220</text>   
+  </view>
+</view>
+<view class="s_view" >
+      <button class="saveBtn"bindtap="gotoPage" >立刻购买</button>
+ </view>
+<view class="s_view" bindtap="handleClickNotice">
+      <button class="submitBtn" type="primary">加入购物车</button>
+</view>
+  <text> ---------------------------------------------- </text>
+  <view class="post-container3">
+  <view class="post-author-date">
+  </view>
+  <text class="post-title">百年老店传承无限</text>
+  <image class="post-image" src="/images/清洁1.jpg " mode="aspectFill" />
+  <text class="post-content">走过路过不要错过原价100，今天心情好大跌血出卖只要5块 </text>
+  <view class="post-like">
+    <image src="/images/喜爱.png" />
+    <text>12008</text>
+    <image src="/images/评论.png"></image>
+    <text>4202</text>
+    <image src="/images/收藏.png"></image>
+    <text>600</text>   
+  </view>
+</view>
+<view class="s_view" >
+      <button class="saveBtn"bindtap="gotoPage" >立刻购买</button>
+ </view>
+<view class="s_view" bindtap="handleClickNotice">
+      <button class="submitBtn" type="primary">加入购物车</button>
+</view>
+  <text> ---------------------------------------------- </text>
+  <view class="post-container3">
+  <view class="post-author-date">
+  </view>
+  <text class="post-title">百年老店传承无限</text>
+  <image class="post-image" src="/images/清洁5.jpg " mode="aspectFill" />
+  <text class="post-content">你没看出你没有搞错只要2块 </text>
+  <view class="post-like">
+    <image src="/images/喜爱.png" />
+    <text>508</text>
+    <image src="/images/评论.png"></image>
+    <text>402</text>
+    <image src="/images/收藏.png"></image>
+    <text>600</text>   
+  </view>
+</view>
+<view class="s_view" >
+      <button class="saveBtn"bindtap="gotoPage" >立刻购买</button>
+ </view>
+<view class="s_view" bindtap="handleClickNotice">
+      <button class="submitBtn" type="primary">加入购物车</button>
+</view>

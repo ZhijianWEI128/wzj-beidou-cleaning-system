@@ -1,0 +1,127 @@
+
+<text> -----------------风格鉴赏------------------- </text>
+
+<swiper  indicator-dots='true' class='hot-card'>
+  <swiper-item >
+    <image src="https://www.cisau.com.cn/UploadFiles/2018/288/2018110811371455513.jpg"></image>
+  </swiper-item>
+  <swiper-item >
+    <image src="https://tse1-mm.cn.bing.net/th/id/R-C.6b90c2e40bafe5a810a7df30036e46f2?rik=YGUG0wPZTfY%2fPg&riu=http%3a%2f%2fwww.biud.com.cn%2fupload%2fnews%2f2012-05-18%2fpost%2f111412-20120518110911-4.jpg&ehk=0Vf8FY9kxkrujWmk4m%2bfH7G6SV2SrY0KKnBNGMShlOA%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"></image>
+  </swiper-item>
+  <swiper-item >
+    <image src="https://pic2.zhimg.com/v2-e6391f78fb2f7c53ad4916ef07a87cde_r.jpg?source=1940ef5c"></image>
+  </swiper-item>
+  <swiper-item >
+    <image src="https://pic4.zhimg.com/v2-3ad814247b9fac02d03ec5fa4cf9b749_r.jpg?source=1940ef5c"></image>
+  </swiper-item>
+</swiper>
+<text> ============================================== </text>
+
+<view class="post-container">
+  <view class="post-author-date">
+    <image src="/images/wx.png" />
+    <text>设计人 可莉</text>
+  </view>
+  <text class="post-title">简约清新风</text>
+  <image class="post-image" src="/images/宿舍1.png " mode="aspectFill" />
+  <text class="post-content">详情：简约小清新向来以淡雅、自然、朴实、超脱、静谧的特点而存在着的，无论是女汉子还是萌萌哒小萝莉都是备受青睐。试想一下，每天从这种环境中醒来，是不是整个人都温柔安静了许多呢。要是你觉得单调，宿舍装饰性不够好，你可以加上一面照片墙。金属材料制作，配上特定的小夹子，容纳再多的照片或者书本什么的也是没问题的。优美的边框，更白搭，更时尚哟。是不是很不错? </text>
+  <view class="post-like">
+    <image src="/images/喜爱.png" />
+    <text>188</text>
+    <image src="/images/评论.png"></image>
+    <text>192</text>
+    <image src="/images/收藏.png"></image>
+    <text>17</text>
+  </view>
+  <view class="s_view" bindtap="handleClickNotice">
+      <button class="submitBtn" type="primary">选择该风格</button>
+</view>
+</view>
+
+<text> ---------------------------------------------- </text>
+<view class="post-container">
+  <view class="post-author-date">
+    <image src="/images/wx.png" />
+    <text>设计人 胡桃</text>
+  </view>
+  <text class="post-title">时尚复古风</text>
+  <image class="post-image" src="/images/宿舍2.jpg " mode="aspectFill" />
+  <text class="post-content">详情：生活环境很大程度上影响人们的心情，身为学生党的学子们，宿舍对他们来说是很重要的。复古风格的设计会给你带来比较个性的风格，也会让你懂得怀念珍惜，除了这些之外，复古风格也是一种很特别的风情，不管是哪个地方的复古都带着精致感。
+当然纯色的壁纸只是奠定了墙面的基调，想要让墙面更加吸睛，各式各样的墙饰是不错的选择。复古风格的装饰画保留了浓郁的色彩，而且那种故意摩擦的设计，更显韵味十足! </text>
+  <view class="post-like">
+    <image src="/images/喜爱.png" />
+    <text>1808</text>
+    <image src="/images/评论.png"></image>
+    <text>502</text>
+    <image src="/images/收藏.png"></image>
+    <text>60</text>
+  </view>
+  <view class="s_view" bindtap="handleClickNotice">
+      <button class="submitBtn" type="primary">选择该风格</button>
+</view>
+</view>
+<text> ---------------------------------------------- </text>
+<view class="post-container">
+  <view class="post-author-date">
+    <image src="/images/wx.png" />
+    <text>设计人 神里</text>
+  </view>
+  <text class="post-title">快乐风</text>
+  <image class="post-image" src="/images/宿舍3.jpg " mode="aspectFill" />
+  <text class="post-content"> 简单 美好 优雅
+ </text>
+  <view class="post-like">
+    <image src="/images/喜爱.png" />
+    <text>9808</text>
+    <image src="/images/评论.png"></image>
+    <text>6502</text>
+    <image src="/images/收藏.png"></image>
+    <text>880</text>
+  </view>
+  <view class="s_view" bindtap="handleClickNotice">
+      <button class="submitBtn" type="primary">选择该风格</button>
+</view>
+</view>
+<text> ---------------------------------------------- </text>
+<view class="post-container">
+  <view class="post-author-date">
+    <image src="/images/wx.png" />
+    <text>设计人 甘雨</text>
+  </view>
+  <text class="post-title">欧式英伦风</text>
+  <image class="post-image" src="/images/宿舍4.jpg " mode="aspectFill" />
+  <text class="post-content">详情：以简单、优雅、干净为主的英伦风格，当人置身其中时，多会感到幸福与温暖。在视觉上能轻松地识别屋内艺术带给人们在审美上的享受。在忙碌整天的学习过后，回到这里，它的装修设计让浮躁的内心在此刻消失。</text>
+  <view class="post-like">
+    <image src="/images/喜爱.png" />
+    <text>5008</text>
+    <image src="/images/评论.png"></image>
+    <text>4002</text>
+    <image src="/images/收藏.png"></image>
+    <text>600</text>
+  </view>
+  <view class="s_view" bindtap="handleClickNotice">
+      <button class="submitBtn" type="primary">选择该风格</button>
+</view>
+</view>
+<text> ---------------------------------------------- </text>
+<view class="post-container">
+  <view class="post-author-date">
+    <image src="/images/wx.png" />
+    <text>设计人 钟离</text>
+  </view>
+  <text class="post-title">现代时尚风</text>
+  <image class="post-image" src="/images/宿舍5.jpg " mode="aspectFill" />
+  <text class="post-content">详情：现如今社会进步越来越快，更多的学生们也享受着新世纪的成果。宿舍环境虽小，但仍然可以设计感十足，现代化的设备让宿舍更具科幻感，精心挑选的窗帘也能更好的保护个人世界，精心布置的宿舍，也能让校园生活增添一份色彩。</text>
+  <view class="post-like">
+    <image src="/images/喜爱.png" />
+    <text>808</text>
+    <image src="/images/评论.png"></image>
+    <text>312</text>
+    <image src="/images/收藏.png"></image>
+    <text>20</text>
+  </view>
+  <view class="s_view" bindtap="handleClickNotice">
+      <button class="submitBtn" type="primary">选择该风格</button>
+</view>
+</view>
+

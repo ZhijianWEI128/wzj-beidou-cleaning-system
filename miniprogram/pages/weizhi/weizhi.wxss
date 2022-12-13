@@ -1,0 +1,4 @@
+map{
+  width: 110vh;
+  height: 110vh;
+}

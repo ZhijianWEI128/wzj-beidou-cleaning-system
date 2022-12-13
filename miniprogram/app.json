@@ -1,0 +1,59 @@
+
+{
+  "pages": [
+    "pages/index/index",
+    "pages/order/order",
+    "pages/person/person",
+    "pages/diy/diy",
+    "pages/xiyiji/xiyiji",
+    "pages/kongtiao/kongtiao",
+    "pages/dajian/dajian",
+    "pages/yifu/yifu",
+    "pages/qiuxie/qiuxie",
+    "pages/shangdian/shangdian",
+    "pages/dimian/dimian",
+    "pages/weizhi/weizhi",
+    "pages/otherHelp/otherHelp",
+    "pages/goumai/goumai",
+    "pages/gexing/gexing"
+   
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "校园清洁",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "images/index.png",
+        "selectedIconPath": "images/index_fill.png"
+      },
+      {
+        "text": "订单",
+        "pagePath": "pages/order/order",
+        "iconPath": "images/order.png",
+        "selectedIconPath": "images/order_fill.png"
+      },
+      {
+        "text": "个性",
+        "pagePath": "pages/diy/diy",
+        "iconPath": "images/DIY 2.png",
+        "selectedIconPath": "images/DIY.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/person/person",
+        "iconPath": "images/person.png",
+        "selectedIconPath": "images/person_fill.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2",
+  "lazyCodeLoading": "requiredComponents"
+}

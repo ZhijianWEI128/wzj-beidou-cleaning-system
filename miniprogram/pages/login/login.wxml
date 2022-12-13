@@ -1,0 +1,12 @@
+<!--pages/login/login.wxml-->
+<!-- <text>pages/login/login.wxml</text> -->
+<button open-type="getUserInfo" bindgetuserinfo="handleGetUserInfo" type="primary" plain="">获取授权</button>
+
+
+
+
+
+
+
+
+
